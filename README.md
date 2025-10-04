@@ -1,9 +1,7 @@
 <h2> Hi, I'm Anuj Arora! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 <img align='right' src="https://github.com/anujarora0502/anujarora0502/blob/main/original-cbc2133f09318197a07643d9033a3f16-ezgif.com-crop.gif" width="280">
 <p><em>Lead Engineer at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> 🚀
-</br>Backend-Specialized Full-Stack Developer with extensive experience in designing and building scalable systems using
-GoLang and Ruby on Rails. While my primary expertise lies in backend architecture, I possess solid frontend capabilities
-in ReactJS, enabling me to contribute effectively across the entire development stack. 💻
+</br>Backend-Specialized Full-Stack Developer 💻
 </em></p>
 
 [![Linkedin: anujarora0502](https://img.shields.io/badge/-anujarora0502-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anujarora0502/)](https://www.linkedin.com/in/anujarora0502/)
