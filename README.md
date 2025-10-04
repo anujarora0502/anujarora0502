@@ -1,5 +1,5 @@
 <h2> Hi, I'm Anuj Arora! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
-<img align='right' src="https://cdni.iconscout.com/illustration/premium/thumb/coder-illustration-svg-download-png-2895977.png" width="350">
+<img align='right' src="https://cdni.iconscout.com/illustration/premium/thumb/coder-illustration-svg-download-png-2895977.png" width="200">
 <p><em>Lead Engineer at <a href="https://research.samsung.com/sri-b">Samsung Research Institute</a> 🚀
 </br>Backend-Specialized Full-Stack Developer 💻
 </em></p>
